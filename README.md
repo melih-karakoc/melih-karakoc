@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pisano<br>🌱 I’m currently learning ruby on rails
+🔭 I’m currently working on Pisano<br>🌱 I’m currently working with ruby on rails
 
 
 ## 🌐 Socials:
